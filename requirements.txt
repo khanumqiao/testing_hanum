@@ -1,0 +1,5 @@
+numpy
+os
+matplolib
+torchvision
+cv2
